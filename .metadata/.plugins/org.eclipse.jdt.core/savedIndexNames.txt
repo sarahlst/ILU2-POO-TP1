@@ -1,0 +1,1 @@
+INDEX VERSION 1.134+C:\Users\DELL\Documents\ilu2\tps\workspace\ILU2-POO-TP1\.metadata\.plugins\org.eclipse.jdt.core
