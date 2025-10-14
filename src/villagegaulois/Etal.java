@@ -8,7 +8,7 @@ public class Etal {
 	private int quantiteDebutMarche;
 	private int quantite;
 	private boolean etalOccupe = false;
-
+	
 	public boolean isEtalOccupe() {
 		return etalOccupe;
 	}
@@ -23,6 +23,7 @@ public class Etal {
 		this.quantite = quantite;
 		quantiteDebutMarche = quantite;
 		etalOccupe = true;
+		
 	}
 
 	public String libererEtal() {

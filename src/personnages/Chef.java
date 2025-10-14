@@ -7,7 +7,7 @@ public class Chef extends Gaulois {
 
 	public Chef(String nom, int force, Village village) {
 		super(nom, force);
-		this.village = village;
+    	this.village = village;
 	}
 
 	@Override
